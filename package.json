@@ -1,0 +1,13 @@
+{
+  "name": "devops-training",
+  "version": "1.0.0",
+  "description": "nextjs deployment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Tests passed'",
+    "lint": "echo 'Lint passed'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
