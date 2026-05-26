@@ -40,7 +40,7 @@ jobs:
           client-id: ${{ secrets.INFISICAL_CLIENT_ID }}
           client-secret: ${{ secrets.INFISICAL_CLIENT_SECRET }}
           project-slug: ${{ secrets.INFISICAL_PROJECT_SLUG }}
-          env-slug: production
+          env-slug: dev
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
